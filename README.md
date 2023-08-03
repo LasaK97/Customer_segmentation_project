@@ -1,7 +1,8 @@
 # *Customer Segmentation via Cluster Analysis*
 
 ### Introduction
-The project on customer segmentation using cluster analysis aims to segment customers based on their similarities in terms of demographic, geographic, and behavioral attributes. The study involves the use of various clustering techniques, including k-means clustering, K-Mode clustering, Gaussian Mixture model clustering, Agglomerative clustering, and K-prototype clustering to identify distinct customer segments. The project analyzes a large Amazon sales dataset of customer transaction and demographic data, which is preprocessed and transformed to extract relevant features.
+
+    The project on customer segmentation using cluster analysis aims to segment customers based on their similarities in terms of demographic, geographic, and behavioral attributes. The study involves the use of various clustering techniques, including k-means clustering, K-Mode clustering, Gaussian Mixture model clustering, Agglomerative clustering, and K-prototype clustering to identify distinct customer segments. The project analyzes a large Amazon sales dataset of customer transaction and demographic data, which is preprocessed and transformed to extract relevant features.
 ---
 ### Dataset Description 
 The dataset used for this research is the Amazon Sales E-commerce dataset.
